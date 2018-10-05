@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://img.vavel.com/nba-monjate-2018-19-bob-9442021418.jpg");  
+    background-size:100%;
+    height:100%;
+    width:100%;
+    font-family: 'Caesar Dressing', cursive;
+}
+
+h1{
+    color:blue;
+    font-family: 'Caesar Dressing', cursive;
+}
+
+h2{
+    color:blue;
+    font-family: 'Caesar Dressing', cursive;
+}
+
+.jumbotron {
+   background: rgb(19, 18, 18); 
+   background: rgba(17, 17, 17, 0.5); 
+
+}
+
+.btn{
+    font-family: 'Caesar Dressing', cursive;
+}
+
+.card{
+    background: rgb(19, 18, 18); 
+    background: rgba(17, 17, 17, 0.5);
+    font-family: 'Caesar Dressing', cursive;
+}
+
+.correct, .incorrect {text-transform: capitalize;
+}
+
+div {margin-bottom: 25px; 
+    font-family: 'Caesar Dressing', cursive;
+    font-size: 1.04em;
+}
